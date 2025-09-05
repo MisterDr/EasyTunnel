@@ -1,4 +1,4 @@
-# HTunnel - HTTP Tunneling Service
+# EasyTunnel - HTTP Tunneling Service
 
 Node.js SSH reverse-tunnel service (similar to Pinggy) that exposes local services to the internet by assigning a random subdomain and proxying HTTP traffic through an SSH connection.
 
@@ -117,4 +117,4 @@ These are written to `/root/htunnel/.env` by `install.sh` and read at runtime by
 
 ## Security Note
 
-HTunnel is a development tool. For production, add authentication, rate limiting, and other security hardening.
+EasyTunnel is a development tool. For production, add authentication, rate limiting, and other security hardening.
