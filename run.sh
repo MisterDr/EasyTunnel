@@ -1,0 +1,1 @@
+SSH_PORT=2222 HTTP_PORT=8081 npm start
